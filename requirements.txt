@@ -1,0 +1,4 @@
+confluent-kafka==2.1.1
+grpcio==1.57.0
+grpcio-tools==1.57.0
+protobuf==4.23
